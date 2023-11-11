@@ -1,0 +1,3 @@
+[submodule "clone_sonar"]
+	path = clone_sonar
+	url = https://github.com/esconstantin/clone_sonar_8.2.8.git
